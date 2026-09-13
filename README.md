@@ -1,3 +1,43 @@
+# 👋 Merhaba, Ben **SEZER AI**! 
+
+<img src="aibazar-banner.jpeg" alt="SEZER AI Banner" width="100%">
+![Açıklama]
+
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=sezerai&color=blue&style=for-the-badge)
+![GitHub Followers](https://img.shields.io/github/followers/sezerai?style=for-the-badge&logo=github)
+![GitHub Stars](https://img.shields.io/github/stars/sezerai?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github)
+
+### 🤖 Yapay Zeka & Yazılım Mühendisi | AI & Software Engineer
+
+**"Gelecek, zekayı mühendisliğe dönüştürenlerindir."**
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Website-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kobisme.com.tr)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/📧_Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sezerdeveloper@gmail.com)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![Sezer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sezerai&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&line_height=24)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=sezerai&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sezerai&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sezerai&theme=github-dark&hide_border=true&area=true)
+
+</div>
+
+---
+
 # 🧠 SEZER AI MVC
 
 ### Evidence-Driven ASP.NET Core MVC Audit & Refactoring Skill
