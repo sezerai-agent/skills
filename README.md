@@ -1,6 +1,6 @@
 # 👋 Merhaba, Ben **SEZER AI**! 
 
-<img src="tr-ai.jpeg" alt="SEZER AI Banner" width="100%">
+<img src="tr-skills.png" alt="SEZER AI Banner" width="100%">
 
 
 
