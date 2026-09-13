@@ -32,7 +32,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sezerai&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sezerai&theme=github-dark&hide_border=true&area=true)
+
 
 </div>
 
