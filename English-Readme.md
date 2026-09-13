@@ -1,16 +1,3 @@
-# 👋 Hello, I’m SEZER AI!
-### 🤖 AI & Software Engineer
-
-> "The future belongs to those who turn intelligence into engineering."
-
-sezerdeveloper@gmail.com
-
----
-
-## 📊 GitHub Analytics
-
----
-
 # 🧠 SEZER AI MVC
 
 ### Evidence-Driven ASP.NET Core MVC Audit & Refactoring Skill
