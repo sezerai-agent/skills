@@ -601,7 +601,7 @@ paylaşılması faydalıdır.
 **AI • Software Engineering • Architecture • Automation**
 
 [![GitHub](https://img.shields.io/badge/GitHub-SEZER_AI-181717?style=for-the-badge\&logo=github)](https://github.com/sezerai)
-[![Website](https://img.shields.io/badge/Website-kobisme.com.tr-0078D4?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://kobisme.com.tr)
+[![Website](https://img.shields.io/badge/Website-sezerai.tr-0078D4?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://sezerai.tr)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:sezerdeveloper@gmail.com)
 
 ### ⭐ Evidence First. Architecture Second. Refactor With Permission.
