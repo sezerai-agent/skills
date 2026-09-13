@@ -1,7 +1,3 @@
-İnceledim. Verdiğin profil README’sinin tarzı; **banner + badge + kısa slogan + teknoloji odakları + öne çıkan özellikler + kullanım + vizyon** düzeninde.
-
-Buna yakın ama `sezer-ai-mvc` için daha ürün/araç odaklı, daha temiz ve profesyonel bir README tasarladım. Özellikle abartılı metriklerden kaçındım; skill’in gerçekten yaptığı şeyleri öne çıkardım.
-
 ````markdown
 <div align="center">
 
