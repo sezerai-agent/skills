@@ -1,5 +1,6 @@
-# 👋 Merhaba, Ben **SEZER AI**! 
+# 🧠 SEZER AI MVC
 
+### Evidence-Driven ASP.NET Core MVC Audit & Refactoring Skill
 <img src="tr-skills.png" alt="SEZER AI Banner" width="100%">
 
 
@@ -29,7 +30,6 @@
 
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sezerai&theme=radical&hide_border=true)
-
 
 
 
