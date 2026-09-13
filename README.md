@@ -1,7 +1,6 @@
 # 🧠 SEZER AI MVC
 
 ### Evidence-Driven ASP.NET Core MVC Audit & Refactoring Skill
-<img src="tr-skills.png" alt="SEZER AI Banner" width="100%">
 
 An AI-powered software engineering skill for auditing and refactoring
 ASP.NET Core MVC applications with an evidence-first approach.
@@ -9,6 +8,9 @@ ASP.NET Core MVC applications with an evidence-first approach.
 **Architecture · Security · EF Core · Database · Performance · Testing · Code Analysis**
 
 > Evidence First. Architecture Second. Refactor With Permission.
+
+
+<img src="tr-skills.png" alt="SEZER AI Banner" width="100%">
 
 <div align="center">
 
