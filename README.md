@@ -1,6 +1,3 @@
-````markdown
-<div align="center">
-
 # 🧠 SEZER AI MVC
 
 ### Evidence-Driven ASP.NET Core MVC Audit & Refactoring Skill
